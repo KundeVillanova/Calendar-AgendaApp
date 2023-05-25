@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.exemplo_app">
+    package="com.example.agendaily">
    <application
-        android:label="exemplo_app"
+        android:label="agendaily"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
